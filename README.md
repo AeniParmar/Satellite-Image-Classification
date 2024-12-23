@@ -54,7 +54,7 @@ This project aims to classify satellite images into specific land-use categories
 ### **Setup**  
 1. Clone the repository to your local machine:  
    ```bash  
-   git clone <repository_link>  
+   git clone <https://github.com/AeniParmar/Satellite-Image-Classification.git>  
    ```  
 2. Install dependencies:  
    ```bash  
